@@ -743,6 +743,10 @@ section{
     html{
         font-size: 50%;
     }
+    
+    .review .heading{
+        display: none;
+    }
     .review .swiper-slide{
         display: none;
     }
