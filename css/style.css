@@ -743,7 +743,10 @@ section{
     html{
         font-size: 50%;
     }
-
+    .review .swiper-slide{
+        display: none;
+    }
+    
     .contact form .inputBox input{
         width: 100%;
     }
